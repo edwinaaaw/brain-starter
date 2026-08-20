@@ -1,0 +1,7 @@
+interface:
+  display_name: "Brain Starter"
+  short_description: "Turn task resistance into one real start"
+  brand_color: "#D86F45"
+  default_prompt: "Use $brain-starter to help me move from stuck to one real ten-minute start and record momentum only after action."
+policy:
+  allow_implicit_invocation: true
