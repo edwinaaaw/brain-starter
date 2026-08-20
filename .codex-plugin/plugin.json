@@ -1,0 +1,22 @@
+{
+  "name": "brain-starter",
+  "version": "0.2.0",
+  "description": "A skill that turns task resistance into one real start.",
+  "author": { "name": "bingsha" },
+  "keywords": ["focus", "task-initiation", "productivity", "attention"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Brain Starter",
+    "shortDescription": "Turn resistance into one real start",
+    "longDescription": "Find the friction blocking a real task, use the lowest effective AI intervention, preserve user judgment and growth, and turn intention into one observable ten-minute start.",
+    "developerName": "bingsha",
+    "category": "Productivity",
+    "capabilities": ["Interactive"],
+    "defaultPrompt": [
+      "I know what I need to do, but I cannot start.",
+      "My head is crowded. Help me choose what to begin now.",
+      "Give me a short attention refuel, then move me into the real task."
+    ],
+    "brandColor": "#D86F45"
+  }
+}
